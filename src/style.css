@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Clarista';
+  src: url('./Clarista.otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'Clarista', sans-serif;
+  background: url('./gray-map.gif');
+  /* background-repeat: no-repeat; */
+  font-size: 45px;
+}
+
+img {
+  width: 50px;
+}
